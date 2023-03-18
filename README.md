@@ -20,4 +20,12 @@ All features :
 ## Screenshots
 
 ### Home Page
-![Home Page](./assets/Chatbot.png)
+![Home Page](./assets/homepage.png)
+### Demo Pages
+![Demo Pages 1](./assets/1.png)
+
+![Demo Pages 2](./assets/2.png)
+
+![Demo Pages 3](./assets/3.png)
+
+![Demo Pages 4](./assets/4.png)
